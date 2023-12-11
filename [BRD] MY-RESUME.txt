@@ -17,4 +17,4 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-height -->
 
 
 TODO: 
-- 
+- Làm thêm trang riêng cho từng project (Manfu.html)
