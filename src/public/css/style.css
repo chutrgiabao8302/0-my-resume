@@ -1,8 +1,9 @@
-body {
+* {
   font-family: Arial, sans-serif;
   padding: 0;
-  z-index: 100;
+  margin: 0;
 }
+
 .center-box {
   display: flex;
   justify-content: center;
@@ -53,6 +54,7 @@ nav a:hover {
 
 p {
   line-height: 1.47;
+  margin-top: 1vh;
 }
 
 ul {
@@ -64,7 +66,9 @@ ul {
 }
 
 .job-title,
-.edu-title {
+.edu-title,
+.project-title,
+.skill-type {
   list-style-type: none;
   margin-top: 3vh;
 }
@@ -95,6 +99,23 @@ ul {
   margin-top: 1.4vh;
 }
 
-hr {
-  margin-top: 3.32vh;
+h1 {
+  margin-top: 6vh;
+}
+
+.project-title span,
+.skill-type span {
+  display: flex;
+  font-weight: 550;
+  margin-top: 0.5rem;
+}
+
+footer {
+  display: flex;
+  margin-top: 2vh;
+  padding: 2vh 0 2vh 0;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background-color: gray;
 }
