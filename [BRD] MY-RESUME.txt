@@ -16,6 +16,5 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-height -->
 
 
 
-TODO: Chỉnh 
-- Time span lên cùng dòng với Company
-- Hoàn thiện list "Education"
+TODO: 
+- 
